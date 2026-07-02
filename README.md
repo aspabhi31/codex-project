@@ -1,0 +1,1 @@
+I did this project under Virual Internship under Altiq Technologies Pvt. Ltd. as part of Codebasics Data Science + GenAI bootcamp. The live link is as follows: https://codex-project-62jijsbq4xgwxpmzxujtgx.streamlit.app/
